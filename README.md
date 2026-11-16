@@ -203,5 +203,4 @@ The screenshot currently included is a work-in-progress capture. The following i
 This is a synthetic educational project. Names, customers, territories, products, transactions and financial values are fictional. Do not represent the results as actual company performance. No real customer or commercially sensitive information is included.
 
 ## Author
-
-**[Your Name]** — add your GitHub profile link and contact details here if you want them public.
+UDAY GARG
